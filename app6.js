@@ -1,3 +1,6 @@
+//Programa que solicita 2 numeros y les realiza 
+//suma, resta, multiplicacion, division, modulo.
+
 let A=parseFloat(prompt("Ingresa el numero A: "));
 let B=parseFloat(prompt("Ingresa el numero B: "));
 
